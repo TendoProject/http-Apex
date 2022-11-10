@@ -1,0 +1,12 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.RadarViewModel = void 0;
+const ui = require("ui");
+class RadarViewModel {
+    constructor() {
+        this.showItems = new ui.BoolStorage('settings.radar.showItems', false);
+        this.showPlayers = new ui.BoolStorage('settings.radar.showPlayers', true);
+    }
+}
+exports.RadarViewModel = RadarViewModel;
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiUmFkYXJWaWV3TW9kZWwuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi8uLi8uLi9zcmMvdWkvc2V0dGluZ3MvZ2VuZXJhbC92aWV3TW9kZWxzL1JhZGFyVmlld01vZGVsLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7OztBQUFBLHlCQUF5QjtBQUV6QixNQUFhLGNBQWM7SUFBM0I7UUFDVyxjQUFTLEdBQUcsSUFBSSxFQUFFLENBQUMsV0FBVyxDQUFDLDBCQUEwQixFQUFFLEtBQUssQ0FBQyxDQUFDO1FBQ2xFLGdCQUFXLEdBQUcsSUFBSSxFQUFFLENBQUMsV0FBVyxDQUFDLDRCQUE0QixFQUFFLElBQUksQ0FBQyxDQUFDO0lBQ2hGLENBQUM7Q0FBQTtBQUhELHdDQUdDIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0ICogYXMgdWkgZnJvbSAndWknO1xuXG5leHBvcnQgY2xhc3MgUmFkYXJWaWV3TW9kZWwge1xuICByZWFkb25seSBzaG93SXRlbXMgPSBuZXcgdWkuQm9vbFN0b3JhZ2UoJ3NldHRpbmdzLnJhZGFyLnNob3dJdGVtcycsIGZhbHNlKTtcbiAgcmVhZG9ubHkgc2hvd1BsYXllcnMgPSBuZXcgdWkuQm9vbFN0b3JhZ2UoJ3NldHRpbmdzLnJhZGFyLnNob3dQbGF5ZXJzJywgdHJ1ZSk7XG59XG4iXX0=
