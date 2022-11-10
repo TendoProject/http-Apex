@@ -1,0 +1,9 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.createView = void 0;
+const mobxReact = require("mobx-react");
+function createView(fn) {
+    return mobxReact.observer((props) => fn(props) || null);
+}
+exports.createView = createView;
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoidXRpbGl0aWVzLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vc3JjL3VpL3V0aWxpdGllcy50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7QUFBQSx3Q0FBd0M7QUFFeEMsU0FBZ0IsVUFBVSxDQUFJLEVBQXFCO0lBQ2pELE9BQU8sU0FBUyxDQUFDLFFBQVEsQ0FBQyxDQUFDLEtBQVEsRUFBRSxFQUFFLENBQUMsRUFBRSxDQUFDLEtBQUssQ0FBQyxJQUFJLElBQUksQ0FBQyxDQUFDO0FBQzdELENBQUM7QUFGRCxnQ0FFQyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCAqIGFzIG1vYnhSZWFjdCBmcm9tICdtb2J4LXJlYWN0JztcblxuZXhwb3J0IGZ1bmN0aW9uIGNyZWF0ZVZpZXc8VD4oZm46IChwcm9wczogVCkgPT4gYW55KSB7XG4gIHJldHVybiBtb2J4UmVhY3Qub2JzZXJ2ZXIoKHByb3BzOiBUKSA9PiBmbihwcm9wcykgfHwgbnVsbCk7XG59XG4iXX0=

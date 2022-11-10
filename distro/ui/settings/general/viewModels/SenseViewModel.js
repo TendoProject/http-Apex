@@ -1,0 +1,12 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.SenseViewModel = void 0;
+const ui = require("ui");
+class SenseViewModel {
+    constructor() {
+        this.highlightItems = new ui.BoolStorage('settings.sense.highlightItems', false);
+        this.highlightPlayers = new ui.BoolStorage('settings.sense.highlightPlayers', false);
+    }
+}
+exports.SenseViewModel = SenseViewModel;
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiU2Vuc2VWaWV3TW9kZWwuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi8uLi8uLi9zcmMvdWkvc2V0dGluZ3MvZ2VuZXJhbC92aWV3TW9kZWxzL1NlbnNlVmlld01vZGVsLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7OztBQUFBLHlCQUF5QjtBQUV6QixNQUFhLGNBQWM7SUFBM0I7UUFDVyxtQkFBYyxHQUFHLElBQUksRUFBRSxDQUFDLFdBQVcsQ0FBQywrQkFBK0IsRUFBRSxLQUFLLENBQUMsQ0FBQztRQUM1RSxxQkFBZ0IsR0FBRyxJQUFJLEVBQUUsQ0FBQyxXQUFXLENBQUMsaUNBQWlDLEVBQUUsS0FBSyxDQUFDLENBQUM7SUFDM0YsQ0FBQztDQUFBO0FBSEQsd0NBR0MiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgKiBhcyB1aSBmcm9tICd1aSc7XG5cbmV4cG9ydCBjbGFzcyBTZW5zZVZpZXdNb2RlbCB7XG4gIHJlYWRvbmx5IGhpZ2hsaWdodEl0ZW1zID0gbmV3IHVpLkJvb2xTdG9yYWdlKCdzZXR0aW5ncy5zZW5zZS5oaWdobGlnaHRJdGVtcycsIGZhbHNlKTtcbiAgcmVhZG9ubHkgaGlnaGxpZ2h0UGxheWVycyA9IG5ldyB1aS5Cb29sU3RvcmFnZSgnc2V0dGluZ3Muc2Vuc2UuaGlnaGxpZ2h0UGxheWVycycsIGZhbHNlKTtcbn1cbiJdfQ==

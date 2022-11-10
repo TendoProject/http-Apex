@@ -1,0 +1,22 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.language = void 0;
+exports.language = {
+    items: 'Item Settings',
+    itemsAmmo: 'Ammo',
+    itemsGearBackpack: 'Gear / Backpack',
+    itemsGearBodyShield: 'Gear / Body Shield',
+    itemsGearEvoShield: 'Gear / Evo Shield',
+    itemsGearHelmet: 'Gear / Helmet',
+    itemsGearKnockdownShield: 'Gear / Knockdown Shield',
+    itemsGrenade: 'Grenades',
+    itemsRegen: 'Regen',
+    itemsWeaponsEnergy: 'Weapons / Energy',
+    itemsWeaponsHeavy: 'Weapons / Heavy',
+    itemsWeaponsLight: 'Weapons / Light',
+    itemsWeaponShotgun: 'Weapons / Shotguns',
+    itemsWeaponsSniper: 'Weapons / Snipers',
+    itemsWeaponsSpecial: 'Weapons / Special',
+    itemsWeaponAttachments: 'Weapon Attachments'
+};
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibGFuZ3VhZ2UuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi8uLi9zcmMvdWkvc2V0dGluZ3MvaXRlbXMvbGFuZ3VhZ2UudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7O0FBQWEsUUFBQSxRQUFRLEdBQUc7SUFDdEIsS0FBSyxFQUFFLGVBQWU7SUFDdEIsU0FBUyxFQUFFLE1BQU07SUFDakIsaUJBQWlCLEVBQUUsaUJBQWlCO0lBQ3BDLG1CQUFtQixFQUFFLG9CQUFvQjtJQUN6QyxrQkFBa0IsRUFBRSxtQkFBbUI7SUFDdkMsZUFBZSxFQUFFLGVBQWU7SUFDaEMsd0JBQXdCLEVBQUUseUJBQXlCO0lBQ25ELFlBQVksRUFBRSxVQUFVO0lBQ3hCLFVBQVUsRUFBRSxPQUFPO0lBQ25CLGtCQUFrQixFQUFFLGtCQUFrQjtJQUN0QyxpQkFBaUIsRUFBRSxpQkFBaUI7SUFDcEMsaUJBQWlCLEVBQUUsaUJBQWlCO0lBQ3BDLGtCQUFrQixFQUFFLG9CQUFvQjtJQUN4QyxrQkFBa0IsRUFBRSxtQkFBbUI7SUFDdkMsbUJBQW1CLEVBQUUsbUJBQW1CO0lBQ3hDLHNCQUFzQixFQUFFLG9CQUFvQjtDQUM3QyxDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiZXhwb3J0IGNvbnN0IGxhbmd1YWdlID0ge1xuICBpdGVtczogJ0l0ZW0gU2V0dGluZ3MnLFxuICBpdGVtc0FtbW86ICdBbW1vJyxcbiAgaXRlbXNHZWFyQmFja3BhY2s6ICdHZWFyIC8gQmFja3BhY2snLFxuICBpdGVtc0dlYXJCb2R5U2hpZWxkOiAnR2VhciAvIEJvZHkgU2hpZWxkJyxcbiAgaXRlbXNHZWFyRXZvU2hpZWxkOiAnR2VhciAvIEV2byBTaGllbGQnLFxuICBpdGVtc0dlYXJIZWxtZXQ6ICdHZWFyIC8gSGVsbWV0JyxcbiAgaXRlbXNHZWFyS25vY2tkb3duU2hpZWxkOiAnR2VhciAvIEtub2NrZG93biBTaGllbGQnLFxuICBpdGVtc0dyZW5hZGU6ICdHcmVuYWRlcycsXG4gIGl0ZW1zUmVnZW46ICdSZWdlbicsXG4gIGl0ZW1zV2VhcG9uc0VuZXJneTogJ1dlYXBvbnMgLyBFbmVyZ3knLFxuICBpdGVtc1dlYXBvbnNIZWF2eTogJ1dlYXBvbnMgLyBIZWF2eScsXG4gIGl0ZW1zV2VhcG9uc0xpZ2h0OiAnV2VhcG9ucyAvIExpZ2h0JyxcbiAgaXRlbXNXZWFwb25TaG90Z3VuOiAnV2VhcG9ucyAvIFNob3RndW5zJyxcbiAgaXRlbXNXZWFwb25zU25pcGVyOiAnV2VhcG9ucyAvIFNuaXBlcnMnLFxuICBpdGVtc1dlYXBvbnNTcGVjaWFsOiAnV2VhcG9ucyAvIFNwZWNpYWwnLFxuICBpdGVtc1dlYXBvbkF0dGFjaG1lbnRzOiAnV2VhcG9uIEF0dGFjaG1lbnRzJ1xufTtcbiJdfQ==
